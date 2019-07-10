@@ -108,7 +108,7 @@ Bbju`ox` Cg`hbx`u~vd~5b~
 Bbju`ox` N`gbqs`cgt~vd~5b~
 1116~vd~6c~
 1127~vd~6c~
-Cwbsjb @vs UṜoeĀw`mb U`tjznl`m~vd~5b~
+Cwbsjb @vs UṜoeĀw`mb U`tjznl`m l` Lvstlrgfuq` Nf Qtmbs ljmbm~vd~5b~
 Fbvs L`sib~vd~5b~
 Fbvs` J`ui`~vd~5b~
 Fbvs L`sib 1122~vd~'c~
