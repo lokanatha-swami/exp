@@ -110,12 +110,11 @@ Bbju`ox` N`gbqs`cgt~vd~5b~
 1127~vd~6c~
 Cwbsjb @vs UṜoeĀw`mb U`tjznl`m l` Lvstlrgfuq` Nf Qtmbs ljmbm~vd~5b~
 Fbvs L`sib~vd~5b~
-Fbvs` J`ui`~vd~5b~
-Fbvs L`sib 1122~vd~'c~
-Fbvs L`sib 1123~vd~'c~
-Fbvs L`sib 1126~vd~'c~
-Fbvs L`sib 1127~vd~'c~
-Fbvs L`sib 1129~vd~'c~
+Fbvs L`sib 1122~vd~-c~
+Fbvs L`sib 1123~vd~-c~
+Fbvs L`sib 1126~vd~-c~
+Fbvs L`sib 1127~vd~-c~
+Fbvs L`sib 1129~vd~-c~
 Fpqbru`lj J`uib~vd~5b~
 Ibon`tgsbnh Lbugb~vd~5b~
 Ibqb Sdssf`s~vd~5b~
@@ -131,12 +130,12 @@ Rvssdocds Tmup Lf~vd~5b~
 UbjṤṆbu` T`lnfm`o~vd~5b~
 Usbk N`mebk Ebsri`m . FFW~vd~5b~
 Xbus`~wd~~
-@zpegz` Zbsqb~wd~td~
-Gbsjcx`q Z`ssb 110/~wd~td~
-Mbjnht`qbox` Lbsi`~wd~td~
-řsĬ Jtgdus` Qbshlq`nb~wd~td~
-Usbk` L`oe`k Qbqjjqbn` 312/~wd~td~
-Usbk` L`oe`k Qbqjjqbn` 3124~wd~td~
+@zpegz` Zbsqb~wd~sd~
+Gbsjcx`q Z`ssb 110/~wd~sd~
+Mbjnht`qbox` Lbsi`~wd~sd~
+řsĬ Jtgdus` Qbshlq`nb~wd~sd~
+Usbk` L`oe`k Qbqjjqbn` 312/~wd~sd~
+Usbk` L`oe`k Qbqjjqbn` 3124~wd~sd~
 Aibk`or~ud~~
 Lvtjbt~ud~~
 Kpse D`hubmxb N`i`osbagv~wd~5b~
